@@ -1,7 +1,6 @@
 # wordlist
 
-onelistforall + dirsearch + raft large 
-+ fuzz.txt orwa + B0oM fuzz + | sort -u 
+onelistforall + dirsearch + raft large + fuzz.txt orwa + B0oM fuzz + | sort -u 
 
 ## Awesome wordlists
 + [SecLists](https://github.com/danielmiessler/SecLists)
