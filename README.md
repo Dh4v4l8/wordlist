@@ -12,4 +12,4 @@ onelistforall + dirsearch + raft large
 + [dirsearch](https://github.com/maurosoria/dirsearch/blob/master/db/dicc.txt)
 + [WordPress](https://github.com/WordPress/WordPress.git)
 + [subfuz- Abdullah Nawaf](https://github.com/netsecurity-as/subfuz/blob/master/subdomain_megalist.txt)
-+ [subfuz- Abdullah Nawaf](https://github.com/Bo0oM/fuzz.txt/blob/master/fuzz.txt)
++ [Bo0m fuzz](https://github.com/Bo0oM/fuzz.txt/blob/master/fuzz.txt)
