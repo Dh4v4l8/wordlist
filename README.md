@@ -8,4 +8,4 @@
 + [bbFuzzing](https://github.com/reewardius/bbFuzzing.txt)
 + [dirsearch](https://github.com/maurosoria/dirsearch/blob/master/db/dicc.txt)
 + [WordPress](https://github.com/WordPress/WordPress.git)
-+ [subdomain mega list - Abdullah Nawaf](https://github.com/WordPress/WordPress.git](https://github.com/netsecurity-as/subfuz/blob/master/subdomain_megalist.txt)
++ [subfuz- Abdullah Nawaf](https://github.com/netsecurity-as/subfuz/blob/master/subdomain_megalist.txt)
