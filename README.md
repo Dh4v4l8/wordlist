@@ -2,7 +2,7 @@
 
 onelistforall + dirsearch + raft large + fuzz.txt orwa + B0oM fuzz + My Cool WordList For Fuzz and Bugs | sort -u 
 
-(https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/subdomains-top1million-110000.txt)
+[top1million](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/subdomains-top1million-110000.txt)
 
 ## Awesome wordlists
 + [SecLists](https://github.com/danielmiessler/SecLists)
