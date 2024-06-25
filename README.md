@@ -2,7 +2,7 @@
 
 onelistforall + dirsearch + raft large + fuzz.txt orwa + B0oM fuzz + My Cool WordList For Fuzz and Bugs | sort -u 
 
-[top1million](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/subdomains-top1million-110000.txt) + [BB trickest-inventory](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/bug-bounty-program-subdomains-trickest-inventory.txt) [jhaddix all](https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056) 
+[top1million](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/subdomains-top1million-110000.txt) + [BB trickest-inventory](https://github.com/danielmiessler/SecLists/blob/master/Discovery/DNS/bug-bounty-program-subdomains-trickest-inventory.txt) + [jhaddix all](https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056) | sort -u
 
 ## Awesome wordlists
 + [SecLists](https://github.com/danielmiessler/SecLists)
