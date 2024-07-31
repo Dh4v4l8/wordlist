@@ -5,6 +5,7 @@
 <script>onerror=alert;throw `Supakiad S. m3ez`;</script>
 <textarea>Html injected</textarea>
 <h1><b><i>hello</h1></b></i>
+<a href=http://evil.com>YOCLICKTHIS</a>
 
 <script>alert(1)</script>
 <scr ipt>alert(1)</scr ipt>
