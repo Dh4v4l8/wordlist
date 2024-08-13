@@ -8,7 +8,7 @@
 <pre>HTML</pre>
 <p>HTML</p>
 <i>HTML</i>
-<a href="https://coffinxp.000webhostapp.com/CoffinEncript3.html">Click me</a>
+<a href="http://evil.com">Click me</a>
 <abbr title="HTML">HTML</abbr>
 <acronym title="Armour Infosec">AI</acronym>
 <address>address,address</address>
