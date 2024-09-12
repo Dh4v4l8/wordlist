@@ -1,6 +1,9 @@
 000~ROOT~000
 home/000~ROOT~000
 configurations.xml
+auth/jwt/register
+auth-demo/register/classic
+auth-demo/register/modern
 !
 !.gitignore
 !.htaccess
