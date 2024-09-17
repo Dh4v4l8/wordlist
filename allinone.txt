@@ -4,6 +4,10 @@ configurations.xml
 auth/jwt/register
 auth-demo/register/classic
 auth-demo/register/modern
+auth/jwt/register
+auth-demo/register/classic
+auth-demo/register/modern
+
 !
 !.gitignore
 !.htaccess
