@@ -6,7 +6,6 @@ onelistforall + dirsearch + raft large + fuzz.txt orwa + B0oM fuzz + My Cool Wor
 
 ## Awesome wordlists
 + [SecLists](https://github.com/danielmiessler/SecLists)
-+ [OneListForAll](https://github.com/six2dez/OneListForAll)
 + [Assenote](https://wordlists.assetnote.io)
 + [orwa wordlist](https://github.com/orwagodfather)
 + [bbFuzzing](https://github.com/reewardius/bbFuzzing.txt)
