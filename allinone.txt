@@ -7,6 +7,7 @@ auth-demo/register/modern
 auth/jwt/register
 auth-demo/register/classic
 auth-demo/register/modern
+config.php.bak
 
 !
 !.gitignore
