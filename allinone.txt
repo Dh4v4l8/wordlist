@@ -8,6 +8,7 @@ auth/jwt/register
 auth-demo/register/classic
 auth-demo/register/modern
 config.php.bak
+/__/firebase/init.json
 
 !
 !.gitignore
