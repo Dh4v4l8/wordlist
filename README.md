@@ -13,3 +13,4 @@ onelistforall + dirsearch + raft large + fuzz.txt orwa + B0oM fuzz + My Cool Wor
 + [WordPress](https://github.com/WordPress/WordPress.git)
 + [subfuz- Abdullah Nawaf](https://github.com/netsecurity-as/subfuz/blob/master/subdomain_megalist.txt)
 + [Bo0m fuzz](https://github.com/Bo0oM/fuzz.txt/blob/master/fuzz.txt)
++ [random-robbie](https://github.com/random-robbie/bruteforce-lists/tree/master)
